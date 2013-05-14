@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="mods.war/WEB-INF/lib/oscache-2.1.jar"/>
+	<classpathentry kind="var" path="J2EE_LIB"/>
+	<classpathentry kind="lib" path="mods.war/WEB-INF/lib/marc4j-2.0-rc2.jar"/>
+	<classpathentry kind="output" path="build"/>
+</classpath>
